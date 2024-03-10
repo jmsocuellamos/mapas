@@ -21,3 +21,16 @@ Niveles de agregación para España:
 * ESP_4: Municipios
 
 The coordinate reference system is longitude/latitude and the WGS84 datum
+
+## Códigos INE
+Los ficheros .csv contiene la información de códigos y nombres correspondientes al INE
+
+* ccaa_ine.csv: códigos y nombres de las CCAA
+* provincias_ine.csv: códigos y nombres de las provincias
+* mucicipios_ine.csv: códigos y nombres de los municipios con asignacióna provincia y CCAA. también se encuentra disponible el NATCODE de eurostat que identifica la unidad administrativa. Es un código numérico con 11 digítos como 34104646017 donde:
+  
+  * los dos primeros identifican el país: 34
+  * los dos siguientes identifican la CCAA: 10
+  * los dos siguientes identifican la provincia: 46
+  * los últimos cinco identifican el municipio: 46017
+  
