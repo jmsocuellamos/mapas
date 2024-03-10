@@ -34,3 +34,17 @@ Los ficheros .csv contiene la información de códigos y nombres correspondiente
   * los dos siguientes identifican la provincia: 46
   * los últimos cinco identifican el municipio: 46017
   
+## Códigos EUROSTAT
+Fichero CSV con estructura administrativa de Eurostat. Las variables consideradas son:
+
+* NATCODE: Código para identificar la unidad administativa con los 1 dígitos que hemos visto antes.
+* NAMEUNIT: Nombre de la unidad administrativa (municipios)
+* CODNUT1: Código de la región europea según definición eurostat
+* CODNUT2: Código CCAA según eurostat 
+* CODNUT3: Código provincia eurostat
+* CODMUN: Código municipio eurostat
+* CodINE: Código municipio INE
+* PROVINCIA: Nombre de la provincia (Eurostat)
+* LITMUN: Nombre del municipio (Eurostat)
+
+Como la codificación de provincias no se corresponde con la oficla de españa solo podremos trabajar estos datos en la escala regiones CE, CCAA y municipios.
