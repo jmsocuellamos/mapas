@@ -20,3 +20,4 @@ Niveles de agregación para España:
 * ESP_3: Comarcas
 * ESP_4: Municipios
 
+The coordinate reference system is longitude/latitude and the WGS84 datum
