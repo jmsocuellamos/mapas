@@ -11,10 +11,12 @@ La asignación de provincias no se corresponde con la oficial de españa y no se
 ## Mapas INE
 
 Mapas descargados de https://gadm.org/download_country.html.
+
 Niveles de agregación para España:
-ESP_0: España
-ESP_1: Comunidades
-ESP_2: Provincias
-ESP_3: Comarcas
-ESP_4: Municipios
+
+* ESP_0: España
+* ESP_1: Comunidades
+* ESP_2: Provincias
+* ESP_3: Comarcas
+* ESP_4: Municipios
 
