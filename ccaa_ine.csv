@@ -1,20 +1,20 @@
-CODAUTO;CCAA;NUTS_ID
-1;Andalucía;ES61
-2;Aragón;ES24
-3;Asturias, Principado de;ES12
-4;Balears, Illes;ES53
-5;Canarias;ES70
-6;Cantabria;ES13
-7;Castilla y León;ES41
-8;Castilla-La Mancha;ES42
-9;Cataluña;ES51
-10;Comunitat Valenciana;ES52
-11;Extremadura;ES43
-12;Galicia;ES11
-13;Madrid, Comunidad de;ES30
-14;Murcia, Región de;ES62
-15;Navarra, Comunidad Foral de;ES22
-16;País Vasco;ES21
-17;Rioja, La;ES23
-18;Ceuta;ES63
-19;Melilla;ES64
+CODAUTO;CCAA;REGION
+1;Andalucía;Sur
+2;Aragón;Noreste
+3;Asturias, Principado de;Noroeste
+4;Balears, Illes;Este
+5;Canarias;Canarias
+6;Cantabria;Noroeste
+7;Castilla y León;Centro
+8;Castilla-La Mancha;Centro
+9;Cataluña;Este
+10;Comunitat Valenciana;Este
+11;Extremadura;Centro
+12;Galicia;Noroeste
+13;Madrid, Comunidad de;Comunidad de Madrid
+14;Murcia, Región de;Sur
+15;Navarra, Comunidad Foral de; Noreste
+16;País Vasco;Noreste
+17;Rioja, La;Noreste
+18;Ceuta;Sur
+19;Melilla;Sur
