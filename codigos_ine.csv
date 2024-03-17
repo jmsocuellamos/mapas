@@ -24,14 +24,14 @@ CPRO;Provincia;CODAUTO;CCAA;REGION;NUTS_ID;UNIPROVINCIAL
 23;Jaén;1;Andalucía;Sur;ES61;0
 24;León;7;Castilla y León;Centro;ES41;0
 25;Lleida;9;Cataluña;Este;ES51;0
-26;Rioja, La;17;Rioja, La;Noreste;ES23;1
+26;Rioja, La;17;Rioja (La);Noreste;ES23;1
 27;Lugo;12;Galicia;Noroeste;ES11;0
-28;Madrid;13;Madrid, Comunidad de;Comunidad de Madrid;ES30;1
+28;Madrid;13;Madrid (Comunidad de);Comunidad de Madrid;ES30;1
 29;Málaga;1;Andalucía;Sur;ES61;0
-30;Murcia;14;Murcia, Región de;Sur;ES62;1
-31;Navarra;15;Navarra, Comunidad Foral de; Noreste;ES22;1
+30;Murcia;14;Murcia (Región de);Sur;ES62;1
+31;Navarra;15;Navarra (Comunidad Foral de); Noreste;ES22;1
 32;Ourense;12;Galicia;Noroeste;ES11;0
-33;Asturias;3;Asturias, Principado de;Noroeste;ES12;1
+33;Asturias;3;Asturias (Principado de);Noroeste;ES12;1
 34;Palencia;7;Castilla y León;Centro;ES41;0
 35;Palmas, Las;5;Canarias;Canarias;ES70;0
 36;Pontevedra;12;Galicia;Noroeste;ES11;0
