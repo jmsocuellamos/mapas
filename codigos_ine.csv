@@ -1,0 +1,53 @@
+CPRO;Provincia;CODAUTO;CCAA;REGION;NUTS_ID;UNIPROVINCIAL
+01;Araba/Álava;16;País Vasco;Noreste;ES21;0
+02;Albacete;8;Castilla - La Mancha;Centro;ES42;0
+03;Alicante/Alacant;10;Comunitat Valenciana;Este;ES52;0
+04;Almería;1;Andalucía;Sur;ES61;0
+05;Ávila;7;Castilla y León;Centro;ES41;0
+06;Badajoz;11;Extremadura;Centro;ES43;0
+07;Balears, Illes;4;Balears, Illes;Este;ES53;0
+08;Barcelona;9;Cataluña;Este;ES51;0
+09;Burgos;7;Castilla y León;Centro;ES41;0
+10;Cáceres;11;Extremadura;Centro;ES43;0
+11;Cádiz;1;Andalucía;Sur;ES61;0
+12;Castellón/Castelló;10;Comunitat Valenciana;Este;ES52;0
+13;Ciudad Real;8;Castilla - La Mancha;Centro;ES42;0
+14;Córdoba;1;Andalucía;Sur;ES61;0
+15;Coruña, A;12;Galicia;Noroeste;ES11;0
+16;Cuenca;8;Castilla - La Mancha;Centro;ES42;0
+17;Girona;9;Cataluña;Este;ES51;0
+18;Granada;1;Andalucía;Sur;ES61;0
+19;Guadalajara;8;Castilla - La Mancha;Centro;ES42;0
+20;Gipuzkoa;16;País Vasco;Noreste;ES21;0
+21;Huelva;1;Andalucía;Sur;ES61;0
+22;Huesca;2;Aragón;Noreste;ES24;0
+23;Jaén;1;Andalucía;Sur;ES61;0
+24;León;7;Castilla y León;Centro;ES41;0
+25;Lleida;9;Cataluña;Este;ES51;0
+26;Rioja, La;17;Rioja, La;Noreste;ES23;1
+27;Lugo;12;Galicia;Noroeste;ES11;0
+28;Madrid;13;Madrid, Comunidad de;Comunidad de Madrid;ES30;1
+29;Málaga;1;Andalucía;Sur;ES61;0
+30;Murcia;14;Murcia, Región de;Sur;ES62;1
+31;Navarra;15;Navarra, Comunidad Foral de; Noreste;ES22;1
+32;Ourense;12;Galicia;Noroeste;ES11;0
+33;Asturias;3;Asturias, Principado de;Noroeste;ES12;1
+34;Palencia;7;Castilla y León;Centro;ES41;0
+35;Palmas, Las;5;Canarias;Canarias;ES70;0
+36;Pontevedra;12;Galicia;Noroeste;ES11;0
+37;Salamanca;7;Castilla y León;Centro;ES41;0
+38;Santa Cruz de Tenerife;5;Canarias;Canarias;ES70;0
+39;Cantabria;6;Cantabria;Noroeste;ES13;1
+40;Segovia;7;Castilla y León;Centro;ES41;0
+41;Sevilla;1;Andalucía;Sur;ES61;0
+42;Soria;7;Castilla y León;Centro;ES41;0
+43;Tarragona;9;Cataluña;Este;ES51;0
+44;Teruel;2;Aragón;Noreste;ES24;0
+45;Toledo;8;Castilla - La Mancha;Centro;ES42;0
+46;Valencia/València;10;Comunitat Valenciana;Este;ES52;0
+47;Valladolid;7;Castilla y León;Centro;ES41;0
+48;Bizkaia;16;País Vasco;Noreste;ES21;0
+49;Zamora;7;Castilla y León;Centro;ES41;0
+50;Zaragoza;2;Aragón;Noreste;ES24;0
+51;Ceuta;18;Ceuta;Sur;ES63;1
+52;Melilla;19;Melilla;Sur;ES64;1
